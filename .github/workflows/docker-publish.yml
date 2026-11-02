@@ -29,4 +29,4 @@ jobs:
           push: true
           tags: |
             dharani0702/dockerhub-automation:latest
-            dharani0702/dockerhub-automation:v1
+            dharani0702/dockerhub-automation:v2
